@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meca12944.github.io/stco-gumi/sitemap.xml
